@@ -1,2 +1,1 @@
-Creating a new branch is qU
-
+Creating a new branch is quick AND simple.
